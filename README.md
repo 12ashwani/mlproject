@@ -12,3 +12,6 @@
 # git push -u origin main#
 // Your local changes
 // Changes from the remote repository
+<!-- for creating the environment and how to activate  -->
+# conda create -p venv python==3.11 -y
+# conda activate D:\ml-project\mlproject\venv
